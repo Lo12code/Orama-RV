@@ -2,7 +2,4 @@
 Tracking Stocks
 
 ## CUSTÓDIA
-Cole sua custódia na pasta /colar-planilhas/custodia
-
-## ATUALIZAÇÕES
-Cole
+Paste your custody-sheet in /paste-sheets
